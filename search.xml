@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/06/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Hello Blog</title>
+    <url>/2023/06/13/Hello-Blog/</url>
+    <content><![CDATA[<p>[TOC]</p>
+<h2 id="为什么要开始写博客？"><a href="#为什么要开始写博客？" class="headerlink" title="为什么要开始写博客？"></a>为什么要开始写博客？</h2><p>作为一个04年出生的小孩，第一次知道博客是因为想看黄执中的《洛阳集》，但当我打开网易博客时发现他已经停运了，在移动互联网时代再去搭建一个网站显得费时费力，我完全可以在知乎，b站上分享日常，甚至用QQ和微信。但博客这个东西似乎对我有什么奇妙的吸引力，让我用了将近三天的时间搭建，在反反复复的error里坚持了下来，他更像是我的一个作品，而不是单纯的网站，创造某样东西所带来的快乐和成就感绝不是机械的学习和模仿能比的，也不需要考试来证明。如果你非要说我们这代人少点什么东西，可能是想象力和创造力。  </p>
+<h2 id="我们的出路"><a href="#我们的出路" class="headerlink" title="我们的出路"></a>我们的出路</h2><p>在一个宏大叙事被解构的年代，在经济下行的周期里，我们就像上世纪法国所经历的那样，其实情况没那么糟，但是我们总感觉自己过得不如上一代人，所以很难接受，我们自以为这代人是自由开放的象征，是思想进步的体现，但其实我们什么也不愿意干，却什么都想要。我不相信共产主义并不因为我不喜欢共产主义，而是我讨厌拿共产主义理想来绑架现实的，活生生的人。因为有了共产主义，我们可以随意批判万恶的资本家，却不管他们是不是资本家。经济不景气的时候，我们任何的抱怨都是合理的，但是我们总要走出去，总要找到自己的路</p>
 ]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
   </entry>
 </search>
