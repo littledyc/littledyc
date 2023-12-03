@@ -45,29 +45,6 @@
       </tags>
   </entry>
   <entry>
-    <title>建站历程(持续更新)</title>
-    <url>/2023/12/02/%E5%BB%BA%E7%AB%99%E5%8E%86%E7%A8%8B/</url>
-    <content><![CDATA[<h2 id="入坑"><a href="#入坑" class="headerlink" title="入坑"></a>入坑</h2><p>坦白讲笔者是个健忘的主（不是猪），不仅很久之前的事记不得，连上半年的事也忘得一干二净，或者说，当时想做一个自己的博客纯粹是心血来潮，一拍脑袋做的决定，或者说，六月期末的记忆太过深刻；但有一点可以肯定，较之于知乎，微博，微信公众号这些平台的繁杂，笔者更喜欢简洁的网站。</p>
-]]></content>
-      <categories>
-        <category>杂文</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>旧题新破</title>
-    <url>/2023/12/02/%E6%97%A7%E9%A2%98%E6%96%B0%E7%A0%B4/</url>
-    <content><![CDATA[<h2 id="笑是生活的解药"><a href="#笑是生活的解药" class="headerlink" title="笑是生活的解药"></a>笑是生活的解药</h2>]]></content>
-      <categories>
-        <category>杂文</category>
-      </categories>
-      <tags>
-        <tag>辩论</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>满座衣冠似雪</title>
     <url>/2023/06/13/%E6%BB%A1%E5%BA%A7%E8%A1%A3%E5%86%A0%E4%BC%BC%E9%9B%AA/</url>
     <content><![CDATA[<h2 id="为什么要开始写博客？"><a href="#为什么要开始写博客？" class="headerlink" title="为什么要开始写博客？"></a>为什么要开始写博客？</h2><p>作为一个04年出生的小孩，第一次知道博客是因为想看黄执中的《洛阳集》，但当我打开网易博客时发现他已经停运了，在移动互联网时代再去搭建一个网站显得费时费力，我完全可以在知乎，b站上分享日常，甚至用QQ和微信。但博客这个东西似乎对我有什么奇妙的吸引力，让我用了将近三天的时间搭建，在反反复复的error里坚持了下来，我觉得他更像是我的一个作品，而不是单纯的网站，创造某样东西所带来的快乐和成就感绝不是机械的学习和模仿能比的，也不需要考试来证明。如果你非要说我们这代人少点什么东西，可能是想象力和创造力。我们这代人  好像总在指出问题，却没有想要解决问题。我高中的时候也爱写东西，也思考学校、教育的意义，那时候的文字抽象却感情饱满，如果这个博客真能让我找到高中纯粹的感觉，也算是有用了吧……</p>
@@ -96,8 +73,31 @@
         <category>杂文</category>
       </categories>
       <tags>
-        <tag>辩论</tag>
         <tag>数学</tag>
+        <tag>辩论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站历程(持续更新)</title>
+    <url>/2023/12/02/%E5%BB%BA%E7%AB%99%E5%8E%86%E7%A8%8B/</url>
+    <content><![CDATA[<h2 id="入坑"><a href="#入坑" class="headerlink" title="入坑"></a>入坑</h2><p>坦白讲笔者是个健忘的主（不是猪），不仅很久之前的事记不得，连上半年的事也忘得一干二净，或者说，当时想做一个自己的博客纯粹是心血来潮，一拍脑袋做的决定，或者说，六月期末的记忆太过深刻；但有一点可以肯定，较之于知乎，微博，微信公众号这些平台的繁杂，笔者更喜欢简洁的网站。</p>
+]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>旧题新破</title>
+    <url>/2023/12/02/%E6%97%A7%E9%A2%98%E6%96%B0%E7%A0%B4/</url>
+    <content><![CDATA[<h2 id="笑是生活的解药"><a href="#笑是生活的解药" class="headerlink" title="笑是生活的解药"></a>笑是生活的解药</h2>]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>辩论</tag>
       </tags>
   </entry>
 </search>
