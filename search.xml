@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>maximum η(G) of claw-free Graph</title>
+    <url>/2023/12/06/%E5%A4%A7%E5%88%9B/</url>
+    <content><![CDATA[<h3 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h3><h4 id="一-子图和-subgraph-和诱导子图-induced-subgraph"><a href="#一-子图和-subgraph-和诱导子图-induced-subgraph" class="headerlink" title="一.子图和(subgraph)和诱导子图(induced subgraph)"></a>一.子图和(subgraph)和诱导子图(induced subgraph)</h4><p>设V(G),V(H)表示G,H中的点,E(G),E(H)表示G,H中的边<br>1.子图(subgraph)的定义：若图H满足：V(H) $\subseteq$ G(H) 且 E(H) $\subseteq$ E(G) 则称图H称为图G的子图<br>2.诱导子图(induced subgraph)的定义: 若图H满足：V(H) $\subseteq$ G(H) 且 $\forall$ uv $\subseteq$ E(H) 当且仅当uv $\subseteq$ E(G) 则称图H称为图G的诱导子图<br>且若G不包含H作为其一个诱导子图，则称G是H-free的<br>3.举例(example):<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B1.png" alt="test"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B2.png" alt="test"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B3.png" alt="test"></p>
+<p>1图是2图的诱导子图，3图是2图的子图，但不是诱导子图(因为V1和V3不相邻)</p>
+<h4 id="二-爪型图-claw"><a href="#二-爪型图-claw" class="headerlink" title="二. 爪型图(claw)"></a>二. 爪型图(claw)</h4><p>1.定义: </p>
+<h3 id="三-邻接矩阵"><a href="#三-邻接矩阵" class="headerlink" title="三.邻接矩阵"></a>三.邻接矩阵</h3><p>1.定义：Aij&#x3D;0</p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>图论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于旅行</title>
     <url>/2024/04/04/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/</url>
-    <content><![CDATA[<h2 id="常州"><a href="#常州" class="headerlink" title="常州"></a>常州</h2><p>坐在常州回上海的火车上，对座是偶遇同样回上海的母女，身旁是呼啸而过的另一辆车，耳机里是园游会的歌词“我顶着大太阳”，眼前是即将失去活力的阳光</p>
+    <content><![CDATA[<h2 id="常州"><a href="#常州" class="headerlink" title="常州"></a>常州</h2><p>坐在常州回上海的火车上，对座是偶遇同样回上海的母女，身旁是呼啸而过的另一辆车，耳机里是园游会的歌词“我顶着大太阳”，眼前是即将失去活力的阳光<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E5.jpg" alt="tset"></p>
 <p>我欺骗自己出去玩的理由往往是：这次不去就没机会了，没想过那是走断腿被挤死和差点露宿街头的体验</p>
-<p>在河海的操场上听歌（这竟然是他们“百年一遇”的活动，看来华理的活动还算多），散步（特别有吃完饭一中操场的感觉），以及把吃完的冰棒连着包装纸一起塞进下水道</p>
+<p>在河海的操场上听歌（这竟然是他们“百年一遇”的活动，看来华理的活动还算多），散步（特别有吃完饭一中操场的感觉），以及把吃完的冰棒连着包装纸一起塞进下水道<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E8.jpg" alt="test"></p>
 <p>在青果巷看到一辆大巴车下来好多爷爷奶奶，一问竟然是松江来的；向前走是一群小朋友在画纸鸢，但我只在乎这个东西能不能飞</p>
-<p>在环球港遇到了一个小女孩，不想让我看她，于是拿着玩具猪扔我，但是她力气不够扔不到，所以每次我捡回去又扔给她，乐此不疲</p>
-<p>音乐节前，如果没有刷到警惕“白左化”的视频，我不会把这种狂热看作文化解构，但当旅行团用byebye压轴的时候，当全场举起双手，双脚离地的时候，当喊出那句“我们不是来改变世界，我们就是世界”的时候，已经在听歌软件上听过无数次live版的我，依然疯狂的蹦，现在想想，除了警惕，我们还有很多可以做的</p>
-<p>常州是一个和恐龙没有任何关系的城市，但是和东坡很有关系，他少时梦想的养老之地让他写了两篇《乞常州居住表》，散尽家财却焚券还宅，未曾任职常州，却和这座城市有很深的羁绊（怪不得大家都说常州宜居不宜旅）誓将归老，殆是前缘……</p>
+<p>在环球港遇到了一个小女孩，不想让我看她，于是拿着玩具猪扔我，但是她力气不够扔不到，所以每次我捡回去又扔给她，乐此不疲<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E6.jpg" alt="test"></p>
+<p>音乐节前，如果没有刷到警惕“白左化”的视频，我不会把这种狂热看作文化解构，但当旅行团用byebye压轴的时候，当全场举起双手，双脚离地的时候，当喊出那句“我们不是来改变世界，我们就是世界”的时候，已经在听歌软件上听过无数次live版的我，依然疯狂的蹦，现在想想，除了警惕，我们还有很多可以做的<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E4.jpg" alt="test"><br>常州是一个和恐龙没有任何关系的城市，但是和东坡很有关系，他少时梦想的养老之地让他写了两篇《乞常州居住表》，散尽家财却焚券还宅，未曾任职常州，却和这座城市有很深的羁绊（怪不得大家都说常州宜居不宜旅）誓将归老，殆是前缘……<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E2.jpg" alt="test"></p>
 <p>眼前的阳光完全消失了，耳机里的歌已经循环了一遍，不禁想起来时的路上高铁太快，夜色太浓，到底错过了多少风景，坐两个半小时火车的好处在于，我觉得我还在路上，所以我一直有回忆的动力，窗外已经没有火车再经过，身旁的小女孩开始抱怨晚饭不能吃好吃的，妈妈告诉她要有耐心，然后我们都笑了，车厢里的人们开始攀谈，疲惫的站票是不是到站就结束了，但至少，即将到站的通知可以让每个人脸上的笑容绽放一会</p>
-<p>微信只能放九张照片，就像是极限挑战无忧岛那期，六个人只能留下六张照片，它在逼迫我选出最值得分享和珍藏的东西，即使我什么都想要</p>
+<p>微信只能放九张照片，就像是极限挑战无忧岛那期，六个人只能留下六张照片，它在逼迫我选出最值得分享和珍藏的东西，即使我什么都想要<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%B8%B8%E5%B7%9E9.jpg" alt="tse"></p>
 <p>嘿，旅客朋友们列车前方到站是上海南站，请提前在过道排队准备好行李物品，下一站是“梦境班车”</p>
 <h2 id="南京"><a href="#南京" class="headerlink" title="南京"></a>南京</h2><p>“哪一位去往南京转，与我那三郎把信传，就说苏三把命断”<br>—《苏三起解》</p>
 <p>老南京是荔枝口的宫保鸡丁和放了辣椒但是不辣的土豆烧鸭，附近的居民会带着打包盒来盛上四五个菜，夫妻店的四个小桌子坐不下正在着急排队的食客，只好失去的几单生意；</p>
@@ -38,21 +52,6 @@
       </categories>
       <tags>
         <tag>AI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>maximum η(G) of claw-free Graph</title>
-    <url>/2023/12/06/%E5%A4%A7%E5%88%9B/</url>
-    <content><![CDATA[<h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><h4 id="一-子图和-subgraph-和诱导子图-induced-subgraph"><a href="#一-子图和-subgraph-和诱导子图-induced-subgraph" class="headerlink" title="一.子图和(subgraph)和诱导子图(induced subgraph)"></a>一.子图和(subgraph)和诱导子图(induced subgraph)</h4><p>设V(G),V(H)表示G,H中的点,E(G),E(H)表示G,H中的边<br>1.子图(subgraph)的定义：若图H满足：V(H) $\subseteq$ G(H) 且 E(H) $\subseteq$ E(G) 则称图H称为图G的子图<br>2.诱导子图(induced subgraph)的定义: 若图H满足：V(H) $\subseteq$ G(H) 且 $\forall$ uv $\subseteq$ E(H) 当且仅当uv $\subseteq$ E(G) 则称图H称为图G的诱导子图<br>且若G不包含H作为其一个诱导子图，则称G是H-free的<br>3.举例(example):<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B1.png" alt="test"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B2.png" alt="test"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E5%A4%A7%E5%88%9B3.png" alt="test"></p>
-<p>1图是2图的诱导子图，3图是2图的子图，但不是诱导子图(因为V1和V3不相邻)</p>
-<h4 id="二-爪型图-claw"><a href="#二-爪型图-claw" class="headerlink" title="二. 爪型图(claw)"></a>二. 爪型图(claw)</h4><p>1.定义: </p>
-<h3 id="三-邻接矩阵"><a href="#三-邻接矩阵" class="headerlink" title="三.邻接矩阵"></a>三.邻接矩阵</h3><p>1.定义：Aij&#x3D;0</p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-      <tags>
-        <tag>图论</tag>
       </tags>
   </entry>
   <entry>
