@@ -16,6 +16,20 @@
       </tags>
   </entry>
   <entry>
+    <title>大语言模型测评及使用指南</title>
+    <url>/2023/11/30/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%84%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h2 id="使用指南（以Chatgpt为例）"><a href="#使用指南（以Chatgpt为例）" class="headerlink" title="使用指南（以Chatgpt为例）"></a>使用指南（以Chatgpt为例）</h2><h3 id="一、科学上网"><a href="#一、科学上网" class="headerlink" title="一、科学上网"></a>一、科学上网</h3><p>Chatgpt对于很多国家都是封锁的（美国人真坏！），国内有很多镜像网址或者套皮的微信小程序，在严格的监管下被封了挺多，我不推荐大家用是因为不仅要收费，速度还慢（不如用我国自主研发的文心一言），而且直接登录openai的官网可以了解一些新的动态，还可以装X，所以这边直接给大家上链接：<br> <a class="link" href="https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html">https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>这里的梯子也是我自己一直在用的迷雾通，它有免费和付费版，看视频需要速度快一点的付费版，如果你有国外的信用卡大概是一天一元，微信和支付宝要多15%的手续费。<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E8%BF%B7%E9%9B%BE%E9%80%9A.jpg" alt="test"></p>
+<h3 id="二、YouTube-启动"><a href="#二、YouTube-启动" class="headerlink" title="二、YouTube 启动!"></a>二、YouTube 启动!</h3><p>原谅我，我本来是想一步一步给大家写完的，但我干瘪浅薄的语言肯定不如一个视频教程来的干净利索，上视频链接：<a class="link" href="https://www.youtube.com/watch?v=NWJeRBMpsx8&t=501s">https://www.youtube.com/watch?v=NWJeRBMpsx8&amp;t=501s <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 这也是教会我使用gpt的视频，如果这个教程现在不通用了，大家可以去看这位YouTuber最新的视频，大概的流程就是用一个虚拟手机号加一个外网的邮箱进行注册（记得所有的操作都开启迷雾通）<br>Ps：YouTube上有一些奇奇怪怪的内容大家少看哦!<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/youtube1.jpg" alt="test"></p>
+<h3 id="三、其他的大语言模型"><a href="#三、其他的大语言模型" class="headerlink" title="三、其他的大语言模型"></a>三、其他的大语言模型</h3><p>这里我就介绍几个我收藏夹里的吧<br>1.Inflection：<a class="link" href="https://inflection.ai/">https://inflection.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Inflection是号称情商最高的AI，但是它竟然不会写代码，有点令我失望<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/Inflection.jpg" alt="test"><br>2.Claude：<a class="link" href="https://claude.ai/">https://claude.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Claude支持超长文本和上传附件，号称能力超越gpt3.5<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/claude.jpg" alt="test"><br>3.Grok: <a class="link" href="https://x.ai/">https://x.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>马斯克开发的AI,他说这孩子挺叛逆的，不过现在只有X的订阅用户才能排队体验（与我无缘）<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/Grok.jpg" alt="test"><br>4.Plam:<a class="link" href="https://ai.google/discover/palm2">https://ai.google/discover/palm2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>谷歌的大模型，前段时间听说还不错，现在不知道怎么样（期待我下面的测评吧）<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/plam2.jpg" alt="test"></p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于旅行</title>
     <url>/2024/04/04/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/</url>
     <content><![CDATA[<h2 id="常州"><a href="#常州" class="headerlink" title="常州"></a>常州</h2><p>坐在常州回上海的火车上，对座是偶遇同样回上海的母女，身旁是呼啸而过的另一辆车，耳机里是园游会的歌词“我顶着大太阳”，眼前是即将失去活力的阳光</p>
@@ -53,17 +67,20 @@
       </tags>
   </entry>
   <entry>
-    <title>大语言模型测评及使用指南</title>
-    <url>/2023/11/30/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%84%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
-    <content><![CDATA[<h2 id="使用指南（以Chatgpt为例）"><a href="#使用指南（以Chatgpt为例）" class="headerlink" title="使用指南（以Chatgpt为例）"></a>使用指南（以Chatgpt为例）</h2><h3 id="一、科学上网"><a href="#一、科学上网" class="headerlink" title="一、科学上网"></a>一、科学上网</h3><p>Chatgpt对于很多国家都是封锁的（美国人真坏！），国内有很多镜像网址或者套皮的微信小程序，在严格的监管下被封了挺多，我不推荐大家用是因为不仅要收费，速度还慢（不如用我国自主研发的文心一言），而且直接登录openai的官网可以了解一些新的动态，还可以装X，所以这边直接给大家上链接：<br> <a class="link" href="https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html">https://f001.backblazeb2.com/file/geph4-dl/geph-releases/dl.html <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>这里的梯子也是我自己一直在用的迷雾通，它有免费和付费版，看视频需要速度快一点的付费版，如果你有国外的信用卡大概是一天一元，微信和支付宝要多15%的手续费。<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E8%BF%B7%E9%9B%BE%E9%80%9A.jpg" alt="test"></p>
-<h3 id="二、YouTube-启动"><a href="#二、YouTube-启动" class="headerlink" title="二、YouTube 启动!"></a>二、YouTube 启动!</h3><p>原谅我，我本来是想一步一步给大家写完的，但我干瘪浅薄的语言肯定不如一个视频教程来的干净利索，上视频链接：<a class="link" href="https://www.youtube.com/watch?v=NWJeRBMpsx8&t=501s">https://www.youtube.com/watch?v=NWJeRBMpsx8&amp;t=501s <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 这也是教会我使用gpt的视频，如果这个教程现在不通用了，大家可以去看这位YouTuber最新的视频，大概的流程就是用一个虚拟手机号加一个外网的邮箱进行注册（记得所有的操作都开启迷雾通）<br>Ps：YouTube上有一些奇奇怪怪的内容大家少看哦!<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/youtube1.jpg" alt="test"></p>
-<h3 id="三、其他的大语言模型"><a href="#三、其他的大语言模型" class="headerlink" title="三、其他的大语言模型"></a>三、其他的大语言模型</h3><p>这里我就介绍几个我收藏夹里的吧<br>1.Inflection：<a class="link" href="https://inflection.ai/">https://inflection.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Inflection是号称情商最高的AI，但是它竟然不会写代码，有点令我失望<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/Inflection.jpg" alt="test"><br>2.Claude：<a class="link" href="https://claude.ai/">https://claude.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Claude支持超长文本和上传附件，号称能力超越gpt3.5<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/claude.jpg" alt="test"><br>3.Grok: <a class="link" href="https://x.ai/">https://x.ai/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>马斯克开发的AI,他说这孩子挺叛逆的，不过现在只有X的订阅用户才能排队体验（与我无缘）<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/Grok.jpg" alt="test"><br>4.Plam:<a class="link" href="https://ai.google/discover/palm2">https://ai.google/discover/palm2 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>谷歌的大模型，前段时间听说还不错，现在不知道怎么样（期待我下面的测评吧）<br><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/plam2.jpg" alt="test"></p>
+    <title>数学和辩论</title>
+    <url>/2023/10/08/%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%92%8C%E8%BE%A9%E6%89%8B/</url>
+    <content><![CDATA[<h2 id="数学和辩论"><a href="#数学和辩论" class="headerlink" title="数学和辩论"></a>数学和辩论</h2><p>学数学和打辩论的人都会让人觉得难以接近，前者是书呆子和钢铁直男，后者则是咄咄逼人，偷换概念的诡辩者；但偏偏今年阿里巴巴数学竞赛颁奖典礼上，举办了一场“AI能不能取代人类数学家”的辩论赛，八个平常沉默寡言的数学爱好者化身为能说会道的辩手，突然让我开始思考数学和辩论有着的千丝万缕的联系。</p>
+<p>公元前300年，欧几里得总结几个世纪以来的希腊数学，从五个公理出发，用逻辑和推理构建起整个几何学，那是最早公理化的数学体系；而公理化之于辩手来讲其实就是搭建一个自圆其说的论证框架，在自己的论域中形成逻辑闭环；两者都在努力去塑造某种完美精确的架构，前者可能本只是希望解释世界，但却改变了世界；后者也许本渴望改变世界，但最终只改变了自己。</p>
+<p>而就在我们以为欧式几何已经完善时，试图用前四条公理证明第五条却屡屡失败的罗巴切夫斯基干脆直接改写第五公理，但由此出发得到的三角形内角和小于180度等结论却遭到了数学家的一致反对，直到死后非欧几何才得到承认；同样的，辩手给出的定义和判准无时无刻不在被挑战，到底什么是躺平，什么算社会进步，当我们提出反常识的，激进的观点，可能会如罗巴切夫斯基一般被打压，可如果说非欧几何的意义是将数学从生活经验的范畴抽离，去向一个更真实但也更抽象的世界，那辩手的每一次挑战就像是社会思想改变的推动剂，将我们带离某种刻板印象，为某些人正名。</p>
+<h2 id="关于AI"><a href="#关于AI" class="headerlink" title="关于AI"></a>关于AI</h2><p>而更为巧合的是，早在2020年华语辩论世界杯上，我们已经开始讨论人工智能辩手的出现是人类辩手之喜&#x2F;悲，或许是AlphaGo击败柯洁让人类辩手有了危机感，或许他们对AI的说理煽情也并不在意；回到辩题本身，柯洁直播的时候讲过一位日本棋手芝野龙之介，他的围棋ID叫“人工智能猎手”，他通过前几步的胡乱丢子让AI出错然后再反败为胜，这不正是金庸笔下“快步走上前去，从棋盒中取过一枚白子，闭了眼睛，随手放在棋局之上“的虚竹吗？人类面对AI时的劣势在于我们会出错，而优势在于我们会主动出错，珍珑一弈，AI猎手，是我们期待看到的灵光一闪；但当AI公司几天之后宣布修复bug，这种独特且有趣的智慧也许只是昙花一现了</p>
+<p>最后的这些话，是我在上某节离散数学课时，脑中蹦出来的，虽然老师尽力在举例子，但课上的符号太过抽象，我难免走神，数学家背负着挑战人类理性边界的责任，他们誓死捍卫前人搭建了几千年的数学王国，所以一切回归符号，逻辑和推理，一切都要通过论文来证明；而辩手背负着挑战人类感性边界的责任，辩手没有辩论的王国，他们的努力是在一个个的社会议题上，哪怕只是调动几个人的情绪，给予几个人希望，所以一切回归有趣的故事和真诚的表达，一切的说服都来源于内心；当然，也许你会说辩论场上有强烈的，难以撼动的心证，数学圈也有评判论文的大拿，掌握着极高的话语权，我坦然承认，但正如毕导视频中说的自指的sub（n，n，17），图灵证明的停机问题，不确定性才是灵感和创造的源泉，才是数学和辩论有意思的地方，也正是数学家和辩手不会被AI取代的原因，不是吗</p>
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>杂文</category>
       </categories>
       <tags>
-        <tag>AI</tag>
+        <tag>数学</tag>
+        <tag>辩论</tag>
       </tags>
   </entry>
   <entry>
@@ -81,23 +98,6 @@
       <categories>
         <category>杂文</category>
       </categories>
-  </entry>
-  <entry>
-    <title>数学和辩论</title>
-    <url>/2023/10/08/%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%92%8C%E8%BE%A9%E6%89%8B/</url>
-    <content><![CDATA[<h2 id="数学和辩论"><a href="#数学和辩论" class="headerlink" title="数学和辩论"></a>数学和辩论</h2><p>学数学和打辩论的人都会让人觉得难以接近，前者是书呆子和钢铁直男，后者则是咄咄逼人，偷换概念的诡辩者；但偏偏今年阿里巴巴数学竞赛颁奖典礼上，举办了一场“AI能不能取代人类数学家”的辩论赛，八个平常沉默寡言的数学爱好者化身为能说会道的辩手，突然让我开始思考数学和辩论有着的千丝万缕的联系。</p>
-<p>公元前300年，欧几里得总结几个世纪以来的希腊数学，从五个公理出发，用逻辑和推理构建起整个几何学，那是最早公理化的数学体系；而公理化之于辩手来讲其实就是搭建一个自圆其说的论证框架，在自己的论域中形成逻辑闭环；两者都在努力去塑造某种完美精确的架构，前者可能本只是希望解释世界，但却改变了世界；后者也许本渴望改变世界，但最终只改变了自己。</p>
-<p>而就在我们以为欧式几何已经完善时，试图用前四条公理证明第五条却屡屡失败的罗巴切夫斯基干脆直接改写第五公理，但由此出发得到的三角形内角和小于180度等结论却遭到了数学家的一致反对，直到死后非欧几何才得到承认；同样的，辩手给出的定义和判准无时无刻不在被挑战，到底什么是躺平，什么算社会进步，当我们提出反常识的，激进的观点，可能会如罗巴切夫斯基一般被打压，可如果说非欧几何的意义是将数学从生活经验的范畴抽离，去向一个更真实但也更抽象的世界，那辩手的每一次挑战就像是社会思想改变的推动剂，将我们带离某种刻板印象，为某些人正名。</p>
-<h2 id="关于AI"><a href="#关于AI" class="headerlink" title="关于AI"></a>关于AI</h2><p>而更为巧合的是，早在2020年华语辩论世界杯上，我们已经开始讨论人工智能辩手的出现是人类辩手之喜&#x2F;悲，或许是AlphaGo击败柯洁让人类辩手有了危机感，或许他们对AI的说理煽情也并不在意；回到辩题本身，柯洁直播的时候讲过一位日本棋手芝野龙之介，他的围棋ID叫“人工智能猎手”，他通过前几步的胡乱丢子让AI出错然后再反败为胜，这不正是金庸笔下“快步走上前去，从棋盒中取过一枚白子，闭了眼睛，随手放在棋局之上“的虚竹吗？人类面对AI时的劣势在于我们会出错，而优势在于我们会主动出错，珍珑一弈，AI猎手，是我们期待看到的灵光一闪；但当AI公司几天之后宣布修复bug，这种独特且有趣的智慧也许只是昙花一现了</p>
-<p>最后的这些话，是我在上某节离散数学课时，脑中蹦出来的，虽然老师尽力在举例子，但课上的符号太过抽象，我难免走神，数学家背负着挑战人类理性边界的责任，他们誓死捍卫前人搭建了几千年的数学王国，所以一切回归符号，逻辑和推理，一切都要通过论文来证明；而辩手背负着挑战人类感性边界的责任，辩手没有辩论的王国，他们的努力是在一个个的社会议题上，哪怕只是调动几个人的情绪，给予几个人希望，所以一切回归有趣的故事和真诚的表达，一切的说服都来源于内心；当然，也许你会说辩论场上有强烈的，难以撼动的心证，数学圈也有评判论文的大拿，掌握着极高的话语权，我坦然承认，但正如毕导视频中说的自指的sub（n，n，17），图灵证明的停机问题，不确定性才是灵感和创造的源泉，才是数学和辩论有意思的地方，也正是数学家和辩手不会被AI取代的原因，不是吗</p>
-]]></content>
-      <categories>
-        <category>杂文</category>
-      </categories>
-      <tags>
-        <tag>数学</tag>
-        <tag>辩论</tag>
-      </tags>
   </entry>
   <entry>
     <title>碎碎念(补档)</title>
