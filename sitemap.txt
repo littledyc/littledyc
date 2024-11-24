@@ -12,11 +12,11 @@ http://littledai.cn/tags/index-1.html
 http://littledai.cn/tags/index.html
 http://littledai.cn/
 http://littledai.cn/tags/%E6%97%85%E8%A1%8C/
-http://littledai.cn/tags/%E5%9B%BE%E8%AE%BA/
 http://littledai.cn/tags/AI/
+http://littledai.cn/tags/%E5%9B%BE%E8%AE%BA/
 http://littledai.cn/tags/%E6%95%B0%E5%AD%A6/
 http://littledai.cn/tags/%E8%BE%A9%E8%AE%BA/
 http://littledai.cn/tags/%E6%80%80%E6%97%A7/
-http://littledai.cn/categories/%E6%95%B0%E5%AD%A6/
 http://littledai.cn/categories/%E6%8A%80%E6%9C%AF/
+http://littledai.cn/categories/%E6%95%B0%E5%AD%A6/
 http://littledai.cn/categories/%E6%9D%82%E6%96%87/
