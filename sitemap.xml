@@ -2,18 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://littledai.cn/README.html</loc>
+    <loc>http://littledai.cn/tags/index.html</loc>
     
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://littledai.cn/2024/11/14/%E6%95%B0%E6%A8%A1/</loc>
+    <loc>http://littledai.cn/categories/index.html</loc>
     
-    <lastmod>2024-11-14</lastmod>
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://littledai.cn/links/index.html</loc>
+    
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://littledai.cn/masonry/index.html</loc>
+    
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://littledai.cn/bookmarks/index.html</loc>
+    
+    <lastmod>2024-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://littledai.cn/2024/11/26/%E6%95%B0%E6%A8%A1/</loc>
+    
+    <lastmod>2024-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -73,55 +109,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://littledai.cn/masonry/index.html</loc>
-    
-    <lastmod>2023-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://littledai.cn/categories/index.html</loc>
-    
-    <lastmod>2023-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://littledai.cn/links/index.html</loc>
-    
-    <lastmod>2023-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://littledai.cn/tags/index-1.html</loc>
-    
-    <lastmod>2023-11-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://littledai.cn/tags/index.html</loc>
-    
-    <lastmod>2023-06-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://littledai.cn/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,42 +120,42 @@
   
   <url>
     <loc>http://littledai.cn/tags/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/tags/%E5%9B%BE%E8%AE%BA/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/tags/AI/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/tags/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/tags/%E8%BE%A9%E8%AE%BA/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/tags/%E6%80%80%E6%97%A7/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -173,21 +164,21 @@
   
   <url>
     <loc>http://littledai.cn/categories/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://littledai.cn/categories/%E6%9D%82%E6%96%87/</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2024-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
