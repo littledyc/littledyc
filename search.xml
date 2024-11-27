@@ -85,17 +85,6 @@
       </tags>
   </entry>
   <entry>
-    <title>国赛记录</title>
-    <url>/2024/11/26/%E6%95%B0%E6%A8%A1/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>杂文</category>
-      </categories>
-      <tags>
-        <tag>数模</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>满座衣冠似雪</title>
     <url>/2023/06/13/%E6%BB%A1%E5%BA%A7%E8%A1%A3%E5%86%A0%E4%BC%BC%E9%9B%AA/</url>
     <content><![CDATA[<h2 id="为什么要开始写博客？"><a href="#为什么要开始写博客？" class="headerlink" title="为什么要开始写博客？"></a>为什么要开始写博客？</h2><p>作为一个04年出生的小孩，第一次知道博客是因为想看黄执中的《洛阳集》，但当我打开网易博客时发现他已经停运了，在移动互联网时代再去搭建一个网站显得费时费力，我完全可以在知乎，b站上分享日常，甚至用QQ和微信。但博客这个东西似乎对我有什么奇妙的吸引力，让我用了将近三天的时间搭建，在反反复复的error里坚持了下来，我觉得他更像是我的一个作品，而不是单纯的网站，创造某样东西所带来的快乐和成就感绝不是机械的学习和模仿能比的，也不需要考试来证明。如果你非要说我们这代人少点什么东西，可能是想象力和创造力。我们这代人  好像总在指出问题，却没有想要解决问题。我高中的时候也爱写东西，也思考学校、教育的意义，那时候的文字抽象却感情饱满，如果这个博客真能让我找到高中纯粹的感觉，也算是有用了吧……</p>
@@ -112,14 +101,25 @@
       </categories>
   </entry>
   <entry>
+    <title>国赛记录</title>
+    <url>/2024/11/26/%E6%95%B0%E6%A8%A1/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>杂文</category>
+      </categories>
+      <tags>
+        <tag>数模</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>白纸革命两周年</title>
     <url>/2024/11/27/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/</url>
-    <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title=" 序"></a><center> 序</center></h4><p>2022年11月27日晚，数理辩论联队在华东理工大学奉贤校区C301讨论年轻人该不该为自己而活，与此同时，乌鲁木齐中路的年轻人摆放着鲜花蜡烛，举起白纸，纪念新疆火灾的逝者；没人会想到这场比赛会是0:9的惨败，如同没人会想到这场悼念最终将如何平息。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E8%BE%A9%E8%AE%BA%E6%97%B6%E9%97%B4.jpg" alt="test"><figcaption>test</figcaption></figure></p>
-<h4 id="疫"><a href="#疫" class="headerlink" title=" 疫"></a><center> 疫</center></h4><p>疫情三年跨越高中到大学，从居家隔离到三中住宿，从出校证到离校申请，同每个人一样，我也被凌晨两点半的全员核酸和完不成的三天两检蹂躏过，被填不完的健康码，行程码折磨过。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/3.jpg" alt="test"><figcaption>test</figcaption></figure><br>当一栋又一栋楼被封控，校园的荒凉，是2020春节的武汉；当一层楼的人排着队被捅嗓子然后又乖乖原路返回的时候，你很难不觉得这是小白鼠或者奴隶；而令我最痛苦的瞬间是，唯一开放的篮球场，那个未被封控者的“自由之地”，615宿舍坐投记录创造地，上锁了。我永远记得我们是如何在网课间隙兴奋地冲向球场，又是如何灰溜溜地被赶回去。也许有篮筐就能扣篮，但无人喝彩，无人嘲笑，你很难说这是篮球。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/2.jpg" alt="test"><figcaption>test</figcaption></figure></p>
+    <content><![CDATA[<h4 id="序"><a href="#序" class="headerlink" title=" 序"></a><center> 序</center></h4><p>2022年11月27日晚，数理辩论联队在华东理工大学奉贤校区C301讨论年轻人该不该为自己而活，与此同时，乌鲁木齐中路的年轻人摆放着鲜花蜡烛，举起白纸，纪念新疆火灾的逝者；没人会想到这场比赛会是0:9的惨败，如同没人会想到这场悼念最终将如何平息。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E8%BE%A9%E8%AE%BA%E6%97%B6%E9%97%B4.jpg" alt="test"><figcaption>test</figcaption></figure></p>
+<h4 id="疫"><a href="#疫" class="headerlink" title=" 疫"></a><center> 疫</center></h4><p>疫情三年跨越高中到大学，从居家隔离到三中住宿，从出校证到离校申请，同每个人一样，我也被凌晨两点半的全员核酸和完不成的三天两检蹂躏过，被填不完的健康码，行程码折磨过。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/3.jpg" alt="test"><figcaption>test</figcaption></figure><br>当一栋又一栋楼被封控，校园的荒凉，是2020春节的武汉；当一层楼的人排着队被捅嗓子然后又乖乖原路返回的时候，你很难不觉得这是小白鼠或者奴隶；而令我最痛苦的瞬间是，唯一开放的篮球场，那个未被封控者的“自由之地”，615宿舍坐投记录创造地，上锁了。我永远记得我们是如何在网课间隙兴奋地冲向球场，又是如何灰溜溜地被赶回去。也许有篮筐就能扣篮，但无人喝彩，无人嘲笑，你很难说这是篮球。<br><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/2.jpg" alt="test"><figcaption>test</figcaption></figure></p>
 <h4 id="初识"><a href="#初识" class="headerlink" title="初识"></a><center>初识</center></h4><p>第一次在朋友圈看到上海的同学发乌鲁木齐中路的情况，我才刚学会翻墙，像个懵懂的孩童，后知后觉；但现在看来，当晚上班导师突然一个个宿舍串门，劝告我们不要去市中心的时候，或许意味着这将是一场注定载入史册的运动。</p>
 <div>			<!--块级封装-->
     <center>	<!--将图片和文字居中-->
-    <figure class="image-caption"><img src="/.cn//7.jpg" alt="无法显示图片时显示的文字" style="zoom:这里写图片的缩放百分比"><figcaption>无法显示图片时显示的文字</figcaption></figure>
+    <figure class="image-caption"><img src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/7.jpg" alt="无法显示图片时显示的文字" style="zoom:这里写图片的缩放百分比"><figcaption>无法显示图片时显示的文字</figcaption></figure>
     <br>
     摄于2022.11.27 <!--标题-->
     </center>
@@ -127,9 +127,9 @@
 
 <p>“时代微小的尘埃，落到每个人头上，就是一座山”我在高中写作文歌颂抗疫英雄的时候，常常以此起笔，从来没想过这座大山也是可以被推翻的，维持三年的清零政策，几百米一个的核酸检测亭，严防死守的大白和无限长的封锁线，都会在一夜间成为上个时代，而颠覆的开始，仅仅是南京传媒学院举起的一张白纸。</p>
 <h4 id="白纸革命"><a href="#白纸革命" class="headerlink" title=" 白纸革命"></a><center> 白纸革命</center></h4><p>两年后，回看白纸运动纪录片的时候，发现很有趣的现象，当人们喊“要自由，解封”的时候，能得到大多数人的回应，但当口号越来越激进，甚至喊出“xxx下台”的时候，附和的人寥寥无几，我想这是在中国的人应当可以感同身受的压力，即使他们已经是最有勇气的那批人</p>
-<p><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E7%99%BD%E7%BA%B82.png" alt="test"><figcaption>test</figcaption></figure></p>
+<p><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E7%99%BD%E7%BA%B82.png" alt="test"><figcaption>test</figcaption></figure></p>
 <p>高中时期，南通的两所高中也曾为国庆假期对半砍而走上操场呐喊，当我为他们写文章的时候，我的父母总说“枪打出头鸟”，你为什么要当最前面的那个人呢。现在想来，我们每个人的命运是相连的，为何非要以自己的懦弱衡量他们的勇敢，尤其是他们正在为我们挺身而出</p>
-<p><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E7%99%BD%E7%BA%B8.png" alt="test"><figcaption>test</figcaption></figure></p>
+<p><figure class="image-caption"><img lazyload src="/images/loading.svg" data-src="https://littledai.oss-cn-shanghai.aliyuncs.com/%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD/%E7%99%BD%E7%BA%B8.png" alt="test"><figcaption>test</figcaption></figure></p>
 <p>两年后，我时常想回到那场比赛，为反方代表的那群年轻人发声。街头和警察对峙的人当中，有已经一年没工作的人在诉苦，有的人朋友在贵州大巴上，富士工厂里失去生命，有的人在上海疫情的时候遭到暴力隔离。但在BBC采访时，还有很多人说“It’s my duty”，仿佛35年前意气风发的学生，骑着一辆破旧自行车奔向天安门广场上一样。也许他们在两小时前还在小酒馆里看世界杯，也许他们并没有被体制摧残，但他们理解被体制摧残的人们，理解他们的痛苦，无奈和牺牲。我不知道他们的勇气来自何方，但我永远为他们的勇气而骄傲</p>
 <p>上学期华理赛的决赛，谈子敏老师点评的时候特意提到了那天的事却又没法明说，但是我相信在场的人会心有灵犀，就像看过这篇文章的人一样，白纸将会一直是这个国家的异议符号，即使它只是一张白纸</p>
 <p>白纸运动纪录片<a class="link" href="https://www.youtube.com/watch?v=Mj_UNJSBgHg">https://www.youtube.com/watch?v=Mj_UNJSBgHg<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
