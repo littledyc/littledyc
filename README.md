@@ -9,3 +9,5 @@
 - 🌱 正在学习javascript和python
 - 👯 希望找到一起学习编程的同学 
 - 📫 我的博客: https://littledai.cn/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littledyc)
